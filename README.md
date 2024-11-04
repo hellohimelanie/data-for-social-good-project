@@ -17,26 +17,35 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit]. 
+> As TikTok influencer <br> 
+> I want to analyze user interaction with trends, <br> 
+> so that I can the most amount of views possible. This leads to more money.
 
 ## Dataset 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
 
-Example: 
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+Dataset: 
+
+![alt text](image-2.png)
+
+The dataset was created using this link: https://slayingsocial.com/tiktok-trends-right-now/ 
+
+> We found a link to find the popular trends that we wanted to analyze but my partner and I made our own research <br>
+> to find the rest of the information such as views, likes, and revenue.
+- **Name** (String) - name of the trends listed
+- **Likes** (int) - number likes for each trend
+- **Revenue** (String) - estimated revenue for the trend
+- **Views** (int) - estimated views for each trend
 
 ## UML Diagram 
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![UML Diagram for my project]
+
+![alt text](image-1.png)
 
 ## Description 
 
