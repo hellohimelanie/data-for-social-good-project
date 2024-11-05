@@ -35,15 +35,15 @@ public class Influencer {
   }
 
   // Uses bubble sorting method
-  // Takes the first element to compare it
-  // With the rest of the elements
-  // Switching the position as it goes
-  // Or stopping if it doesn't meet
-  // The precondition
+  // Takes an element to compare it
+  // With the an element ahead of it
+  // Switching the position if it doesn't match the 
+  // precondition
 
-  // Sorts from least to greatest
+  // Makes a new trend that uses info from
+  // popular trend and sorts from least to greatest
   // Based on likes of a trend
-  // and returns the name
+  // and returns the new trend
   public Trend[] sortByLikeBubble() {
     Trend[] likesTrend = popularTrend;
     
@@ -60,15 +60,16 @@ public class Influencer {
   }
 
   // Uses bubble sorting method
-  // Takes the first element to compare it
-  // With the rest of the elements
-  // Switching the position as it goes
-  // Or stopping if it doesn't meet
-  // The precondition
+  // Takes an element to compare it
+  // With the an element ahead of it
+  // Switching the position if it doesn't match the 
+  // precondition
 
-  // Sorts from least to greatest
+  // Uses information from popular trend
+  // and makes a new array to 
+  // organize it from least to greatest
   // Based on views of a trend
-  // and returns the trend
+  // and returns the new trend
   public Trend[] sortByViewsBubble() {
     Trend[] viewsTrend = popularTrend;
     for(int i = 0; i < viewsTrend.length; i++){
