@@ -50,3 +50,9 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+> Our user story is about an influencer who wants to become a big name on social media and make a living out of it. <br>
+> To do that, the influencer needs to analyze user interaction with trends and find what trend the influencer needs to keep up with. <br>
+> The influencer finds a list of trends that are popular over the year, however, the influencer isn't sure which trend is the most popular to participate in. <br>
+> Using our code, the influencer finds the information of each trend and organizes it based on likes or views. <br>
+> After organizing it, the influencer can see which trend is the most popular based on user interaction and the estimated revenue to participate in a trend. <br>
